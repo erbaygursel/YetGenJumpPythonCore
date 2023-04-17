@@ -1,0 +1,17 @@
+***** Satýn Alýnan Ürünler *****
+Tarih: 2023-04-17 23:21:26.102672
+Ürün: Ananas Smoothie
+Fiyat: 8 TL
+-------
+Tarih: 2023-04-17 23:21:29.732431
+Ürün: Karýþýk Meyveli Smoothie
+Fiyat: 15 TL
+-------
+Tarih: 2023-04-17 23:21:31.598125
+Ürün: Çilek Smoothie
+Fiyat: 12 TL
+-------
+Tarih: 2023-04-17 23:21:33.997394
+Ürün: Ananas Smoothie
+Fiyat: 8 TL
+-------

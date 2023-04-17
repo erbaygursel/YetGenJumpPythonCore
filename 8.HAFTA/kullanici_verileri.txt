@@ -1,0 +1,14 @@
+Ýsim ve Soyisim: Erbay Gürsel
+Yaþ: 27
+Boy (m): 1.82
+Kilo (kg): 87.0
+VKÝ: 26.26494384736143
+Sýnýf: Fazla kilolu
+-------
+Ýsim ve Soyisim: Onur Doðan
+Yaþ: 28
+Boy (m): 1.8
+Kilo (kg): 75.0
+VKÝ: 23.148148148148145
+Sýnýf: Normal kilolu
+-------
