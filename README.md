@@ -8,4 +8,31 @@
    - **Eğitim Sonrası**: Konuların üzerinden özet olarak geçildi ve uygulama soruları grup olarak yapıldı. Eğitim sonrası uygulama soruları çözülerek sisteme yüklendi.
  - 3.Hafta:
    - **Eğitim öncesi**: Koşul, döngü ve operatör konuları ile ilgili konu anlatımı üzerine örnek sorular çözüldü ve üstüne eğitim öncesi uygulama soruları ödev olarak verildi.
- 
+ - 4.Hafta:
+   - **Eğitim Öncesi**:
+   - **Eğitim Sonrası**:
+ - 5.Hafta:
+   - **Eğitim Öncesi**:
+   - **Eğitim Sonrası**:
+ - 6.Hafta:
+   - **Eğitim Öncesi**:
+   - **Eğitim Sonrası**:
+ - 7.Hafta:
+   - **Eğitim Öncesi**:
+   - **Eğitim Sonrası**:
+ - 8.Hafta:
+   - **Eğitim Öncesi**:
+   - **Eğitim Sonrası**:
+ - 9.Hafta:
+   - **Eğitim Öncesi**:
+   - **Eğitim Sonrası**:
+ - 10.Hafta:
+   - **Eğitim Öncesi**:
+   - **Eğitim Sonrası**:
+ - 11.Hafta:
+   - **Eğitim Öncesi**:
+   - **Eğitim Sonrası**:
+ - 12.Hafta:
+   - **Eğitim Öncesi**:
+   - **Eğitim Sonrası**:
+  
