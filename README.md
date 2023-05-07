@@ -1,4 +1,6 @@
 # YetGen Core Python Jumper
+![image](https://user-images.githubusercontent.com/123894573/216160359-c4fd57cb-1f7c-45bd-b530-36f16d88e39f.png)
+
 ### 👨‍💻 Eğitim programı kapsamında ders öncesi ve sonrasındaki uygulama ödevlerini yükleyip gelişimimi kayıt altına alıyorum. 
  - 1.Hafta:
    - Eğitim sürecinde kullanacağımız uygulama ve platformları kurduk.
