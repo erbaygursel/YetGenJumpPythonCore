@@ -1,0 +1,1 @@
+print("Demek ki dosya açılınca okey..")
